@@ -17,7 +17,7 @@ Link do figma: [Book UI Kit](https://www.figma.com/file/wRuIfhaLKNLv6QglrJWJos/B
 - Tela de favoritos que exibe os filmes favoritos do usuário.
 - Navegação entre as telas usando um navegador de pilha (Stack Navigator).
 
-## API de Filmes
+## API de Livros
 
 Para obter dados reais de livros, você pode usar a API gratuita do Google Books. A API do Google Books fornece informações sobre milhões de livros, incluindo detalhes sobre o autor, capa do livro, sinopse e muito mais.
 
